@@ -9,9 +9,12 @@
   "author": "zhulifeng",
   "license": "MIT",
   "dependencies": {
+    "async": "^2.6.0",
+    "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
+    "commander": "^2.15.1",
     "iconv-lite": "^0.4.21",
-    "request": "^2.85.0",
-    "requests": "^0.2.2"
+    "jsdom": "^11.7.0",
+    "request": "^2.85.0"
   }
 }
